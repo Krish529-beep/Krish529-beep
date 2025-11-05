@@ -4,7 +4,7 @@
 
 ### A budding Javascript developer
 
-<img align="right"  alt="Coding" width="200" hight="00" src="https://github.com/Krish529-beep/Krish_Brahmbhatt/blob/main/assests/giphy.gif" />
+
 
  How to reach me **krish.dev.404@gmail.com**
 
