@@ -63,12 +63,12 @@
 #### 1️⃣ HireSense: AI-Powered Interview Preparation Platform
 A comprehensive full-stack application that transforms job descriptions and resumes into actionable, role-specific preparation plans. Engineered features including structured AI report generation, skill-gap analysis, and custom resume PDF exports.
 * **Tech Stack:** React, Vite, Node.js, Express, MongoDB, Google GenAI
-* 🔗 **[View Repository](https://github.com/Krish529-beep)** *(Update with actual repo link if different)*
+* 🔗 **[View Repository](https://github.com/Krish529-beep/HireSense)**
 
 #### 2️⃣ RAG AI Teaching Assistant
 A local Retrieval-Augmented Generation (RAG) system built to query video course content. Developed a robust data pipeline to transcribe videos, generate high-dimensional vector embeddings, and utilize local LLMs to answer queries with exact video timestamps.
 * **Tech Stack:** Python, OpenAI Whisper, Ollama (Llama 3.2), Scikit-Learn, Pandas
-* 🔗 **[View Repository](https://github.com/Krish529-beep)** *(Update with actual repo link if different)*
+* 🔗 **[View Repository](https://github.com/Krish529-beep/RAG-based-AI-Teaching_Assistant)** *(Update with actual repo link if different)*
 
 ---
 
