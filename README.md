@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
--  **Computer Engineering** student at (Expected Graduation: June 2027).
+-  **Computer Engineering** student (Expected Graduation: June 2027).
 -  Actively building projects using the **MERN stack**, **Python**, and modern **AI/ML** frameworks.
 -  Currently seeking Software Engineering / Full Stack **internship opportunities for Summer 2027**.
 -  Reach out to me: **[krish.dev.404@gmail.com](mailto:krish.dev.404@gmail.com)**
