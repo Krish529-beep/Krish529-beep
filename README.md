@@ -4,6 +4,13 @@
   <h1>Hi, I'm Krish Brahmbhatt </h1>
   <h3>Software Engineer (Full Stack) | AI Enthusiast | Computer Engineering Student</h3>
   <p><em>Skilled in building scalable web applications and exploring data science/machine learning.</em></p>
+
+  <!-- 🔥 Profile Views + Stats -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Krish529-beep&style=for-the-badge&color=red"/>
+    <img src="https://img.shields.io/github/followers/Krish529-beep?style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/stars/Krish529-beep?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+  </p>
 </div>
 
 ---
@@ -22,38 +29,38 @@
 
 <p align="center">
   <strong>Languages & Frontend</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
 </p>
 
 <p align="center">
   <strong>Backend & Databases</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=appwrite" alt="Appwrite" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=appwrite" width="40"/></a>
 </p>
 
 <p align="center">
   <strong>AI, Data Science & DevOps</strong><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" width="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
 </p>
 
 ---
@@ -68,7 +75,7 @@ A comprehensive full-stack application that transforms job descriptions and resu
 #### 2️⃣ RAG AI Teaching Assistant
 A local Retrieval-Augmented Generation (RAG) system built to query video course content. Developed a robust data pipeline to transcribe videos, generate high-dimensional vector embeddings, and utilize local LLMs to answer queries with exact video timestamps.
 * **Tech Stack:** Python, OpenAI Whisper, Ollama (Llama 3.2), Scikit-Learn, Pandas
-* 🔗 **[View Repository](https://github.com/Krish529-beep/RAG-based-AI-Teaching_Assistant)** *(Update with actual repo link if different)*
+* 🔗 **[View Repository](https://github.com/Krish529-beep/RAG-based-AI-Teaching_Assistant)**
 
 ---
 
@@ -76,18 +83,18 @@ A local Retrieval-Augmented Generation (RAG) system built to query video course 
 
 <p align="center">
   <a href="https://linkedin.com/in/Krish Brahmbhatt" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Krish529-beep" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/Krish_2326" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:krish.dev.404@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/_kris.h23" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
