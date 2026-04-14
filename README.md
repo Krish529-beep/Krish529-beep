@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Krish529-beep/Krish_Brahmbhatt/blob/main/assests/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%">
 
-  <h1>Hi, I'm Krish Brahmbhatt 👋</h1>
+  <h1>Hi, I'm Krish Brahmbhatt </h1>
   <h3>Software Engineer (Full Stack) | AI Enthusiast | Computer Engineering Student</h3>
   <p><em>Skilled in building scalable web applications and exploring data science/machine learning.</em></p>
 </div>
